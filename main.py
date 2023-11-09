@@ -14,4 +14,3 @@ print("YUSUF AND SONS COMPANY")
 print(f'Simple interest : {simple_interest}')
 print(f'Compound interest : {compound_interest}')
 
-#i am lucky
