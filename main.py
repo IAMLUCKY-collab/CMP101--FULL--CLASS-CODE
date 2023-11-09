@@ -13,3 +13,5 @@ compound_interest = (i_p * (1+(i_r/no_of_time_period_elapsed))
 print("YUSUF AND SONS COMPANY")
 print(f'Simple interest : {simple_interest}')
 print(f'Compound interest : {compound_interest}')
+
+#i am lucky
